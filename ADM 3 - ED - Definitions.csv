@@ -30,8 +30,7 @@ qflwmfem,Number of female non dependent workers weighted per worked month
 qflwmale,Number of male non dependent worker informed
 wflwmale,Informed wage of male non dependent workers in UF
 qflwmmale,Number of male non dependent workers weighted per worked month
-asdf_id_1,ASDF ID 1
 totalworkers,Sum of informed dependent and non dependent workers
 totalwage,Sum of informed dependent and non dependent wages
-COORD_X,Coord x
-COORD_Y,Coord y
+rank,Sales ranking
+adm1_adm3,Region - city
