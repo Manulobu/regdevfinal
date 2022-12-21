@@ -1,0 +1,36 @@
+asdf_id,ASDF ID
+gqid,GD ID
+id,ID
+shapeGroup,Shape group
+shapeID,Municipality Geoquery Polygon ID
+shapeName,Shape name
+shapeType,Shape type
+year,Commercial year
+adm3,city
+adm2,province
+adm1,region
+qfirms,Number of firms
+sales,Annual sales in UF
+qfixedworkers,Number of dependent workers informed
+wfixedworkers,Informed wage of dependent workers in UF
+qfwmonth,Number of dependent workers weighted per worked month
+qfwfem,Number of female dependent worker informed
+wfwfem,Informed wage of female dependent workers in UF
+qfwmfem,Number of female dependent workers weighted per worked month
+qfwmale,Number of male dependent worker informed
+wfwmale,Informed wage of male dependent workers in UF
+qfwmmale,Number of male dependent workers weighted per worked month
+qflexworkers,Number of non dependent workers informed
+wflexworkers,Informed wage of non dependent workers in UF
+qflwmonth,Number of non dependent workers weighted per worked month
+qflwfem,Number of female non dependent worker informed
+wflwfem,Informed wage of female non dependent workers in UF
+qflwmfem,Number of female non dependent workers weighted per worked month
+qflwmale,Number of male non dependent worker informed
+wflwmale,Informed wage of male non dependent workers in UF
+qflwmmale,Number of male non dependent workers weighted per worked month
+asdf_id_1,ASDF ID 1
+totalworkers,Sum of informed dependent and non dependent workers
+totalwage,Sum of informed dependent and non dependent wages
+COORD_X,Coord x
+COORD_Y,Coord y
