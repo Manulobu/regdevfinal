@@ -1,0 +1,28 @@
+Variable,Definition,Spanish def
+year,Commercial year,Año Comercial
+segment,Segment by annual sales (5 segments),Tramo segun ventas (5 tramos)
+adm3,city,Comuna del domicilio o casa matriz
+adm2,province,Provincia del domicilio o casa matriz
+adm1,region,Region del domicilio o casa matriz
+qfirms,Number of firms,Número de empresas
+sales,Annual sales in UF,Ventas anuales en UF
+qfixedworkers,Number of dependent workers informed,Número de trabajadores dependientes informados
+wfixedworkers,Informed wage of dependent workers in UF,Renta neta informada en UF
+qfwmonth,Number of dependent workers weighted per worked month,Trabajadores ponderados por meses trabajados
+qfwfem,Number of female dependent worker informed,Número de trabajadores dependientes de género femenino informados
+wfwfem,Informed wage of female dependent workers in UF,"Renta neta informada en UF, trabajadores de género femenino"
+qfwmfem,Number of female dependent workers weighted per worked month,Trabajadores de género femenino ponderados por meses trabajados
+qfwmale,Number of male dependent worker informed,Número de trabajadores dependientes de género masculino informados
+wfwmale,Informed wage of male dependent workers in UF,"Renta neta informada en UF, trabajadores de género masculino"
+qfwmmale,Number of male dependent workers weighted per worked month,Trabajadores de género masculino ponderados por meses trabajados
+qflexworkers,Number of non dependent workers informed,Número de trabajadores a honorarios informados
+wflexworkers,Informed wage of non dependent workers in UF,Honorarios pagados informados en UF
+qflwmonth,Number of non dependent workers weighted per worked month,Trabajadores a honorarios ponderados por meses trabajados
+qflwfem,Number of female non dependent worker informed,Número de trabajadores a honorarios de género femenino informados
+wflwfem,Informed wage of female non dependent workers in UF,Honorarios pagados informados a trabajadores de género femenino en UF
+qflwmfem,Number of female non dependent workers weighted per worked month,Trabajadores a honorarios de género femenino ponderados por meses trabajados
+qflwmale,Number of male non dependent worker informed,Número de trabajadores a honorarios de género masculino informados
+wflwmale,Informed wage of male non dependent workers in UF,Honorarios pagados informados a trabajadores de género masculino en UF
+qflwmmale,Number of male non dependent workers weighted per worked month,Trabajadores a honorarios de género masculino ponderados por meses trabajados
+totalworkers,Sum of informed dependent and non dependent workers,
+totalwage,Sum of informed dependent and non dependent wages,
